@@ -1,0 +1,145 @@
+{
+ "format": 1,
+ "files": [
+  {
+   "name": ".",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "docs",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "roles",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "README.md",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "7f8dea7425d6464a8684052891b283ac46c6a1c9b30d49d8ec8074f54d05dd5b"
+  },
+  {
+   "name": "LICENSE",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "60f1700688fb066051e2a669473413b413e49560ac9fd65aa74ed664ad918fbd"
+  },
+  {
+   "name": "plugins",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "plugins/modules",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_volume.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "8dd65e75517f1c613cd30c3fd881350d97693300b49fe861a60c6d3530697d7a"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_snapshot.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "4cd39aeb024481f62b31607a6e8c841652e5d9792c46441fb93e6886989ce5a0"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_host.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "400293cf7de9f88c6c931b6346891f939baf8fd55f214c7657cef790420bcff2"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_gatherfacts.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "d695b4b4a648931b0502e3381a1015ff3c30a0d8bc9533a7616af5ffd29700bb"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_portgroup.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "5ce51a1955a44ba32fb67d95f4fcf03a9876cd98de72d3c2344ccccbe56a240c"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_maskingview.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "f1efced22523435f4f7a4986961b0fd3e71595783f7ddfbfaec74c33ec056400"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_hostgroup.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "6fe2bdbd63006735888bea79ba4cf63a65f00cd9e6dfe6f4c6014fe7750e0bc9"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_storagegroup.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "48a182b82f0f9fefc0c0720aa61a116e15f531ee1512f67b8d15447189ed2334"
+  },
+  {
+   "name": "plugins/modules/dellemc_powermax_port.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "edc90d09abb6a1a6d4479824edcebfe1929b1b52141d47120aa2c2531e518c13"
+  },
+  {
+   "name": "plugins/module_utils",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "plugins/module_utils/dellemc_ansible_utils.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "0fcb904c8fac1a391f5c35ffcf45a9705be98fdb4d1bc8d98d81e6d06229190c"
+  },
+  {
+   "name": "plugins/doc_fragments",
+   "chksum_type": null,
+   "format": 1,
+   "ftype": "dir",
+   "chksum_sha256": null
+  },
+  {
+   "name": "plugins/doc_fragments/dellemc.py",
+   "chksum_type": "sha256",
+   "format": 1,
+   "ftype": "file",
+   "chksum_sha256": "24b4af69dbb8a2230b7e2bfa2bfedfa58eb555365647ba4dd88826d509366abc"
+  }
+ ]
+}

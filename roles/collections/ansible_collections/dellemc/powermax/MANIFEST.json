@@ -1,0 +1,35 @@
+{
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "chksum_type": "sha256",
+  "format": 1,
+  "ftype": "file",
+  "chksum_sha256": "fe6ba6439518a785fc60e62ae1a9f9bce5c915686fda6fcd3483376e113d906a"
+ },
+ "format": 1,
+ "collection_info": {
+  "name": "powermax",
+  "dependencies": {},
+  "version": "1.0.0",
+  "tags": [],
+  "description": "Ansible modules for Dell EMC PowerMax",
+  "homepage": "https://github.com/dell/ansible-powermax",
+  "documentation": "https://github.com/dell/ansible-powermax",
+  "license": [],
+  "authors": [
+   "Akash Shendge <Akash.Shendge@emc.com>",
+   "Ambuj Dubey <Ambuj.Dubey@emc.com>",
+   "Arindam Datta <arindam.datta@dell.com>",
+   "Ashish Verma <Ashish.Verma1@emc.com>",
+   "Manisha Agrawal <manisha.agrawal@dell.com>",
+   "Prashant Rakheja <Prashant.Rakheja@dell.com>",
+   "Rajshree Khare <Rajshree.Khare@emc.com>",
+   "Vasudevu Lakhinana <vasudevu.lakhinana@dell.com>"
+  ],
+  "license_file": "dellemc_powermax\\dellemc_powermax_utility\\LICENSE",
+  "issues": "https://github.com/dell/ansible-powermax",
+  "readme": "README.md",
+  "namespace": "dellemc",
+  "repository": "https://github.com/dell/ansible-powermax"
+ }
+}
